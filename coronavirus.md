@@ -147,6 +147,7 @@
 
 * [Covid-19 : état des lieux de la réponse européenne](https://jean-jaures.org/nos-productions/covid-19-etat-des-lieux-de-la-reponse-europeenne), Fondation Jean Jaurès
 * [L'Allemagne, l'Europe et le monde face au coronavirus](https://jean-jaures.org/nos-productions/l-allemagne-l-europe-et-le-monde-face-au-coronavirus), Fondation Jean Jaurès
+* [En Espagne, la ministre communiste du Travail annonce l'interdiction des licenciements](http://www.lamarseillaise.fr/flux-rss-la-marseillaise/a-la-une/81341-coronavirus-en-espagne-la-ministre-communiste-du-travail-annonce-l-interdiction-des-licenciements), La Montagne
 * [Étude sur l'Union face à la pandémie de Covid-19](https://www.robert-schuman.eu/fr/doc/actualites/covid19-fr.pdf), Fondation Robert Schuman
 * [Gauche européenne : réactions au coronavirus](https://internationalpcf.nationbuilder.com/r?u=x7qo17qR1Kb0lLg85yQYfAbXTC6Z7wxyptuSZemzKnGIQ6E39MrphA39O8ip-bbkqXlL_zmkk_L690t5ccUYg-7zdgwCu9DdhDpVXC6MB-JfZ8rFCydlT-pgYkIv7ZYBBffF4F5thK5TDDvgDaYmb5fITuUCO5nGfw1G9OAHUGAxj08FvI4_UoI7RlBoXnkM_uzHCXIEHxhrev89-5IBHw&e=cc2582779986510b7343517bf4da1f48&utm_source=internationalpcf&utm_medium=email&utm_campaign=informations_international59&n=4), secteur International du PCF
 * [COVID-19: la Commission crée la toute première réserve rescEU de matériel médical](https://ec.europa.eu/commission/presscorner/detail/fr/ip_20_476), Commission Européenne
