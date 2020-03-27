@@ -24,7 +24,7 @@
 * [Pourquoi des épidémies comme celle du coronavirus se propagent de manière exponentielle et comment “aplatir la courbe”?](https://www.washingtonpost.com/graphics/2020/health/corona-simulator-french/), Washington Post
 * [Covid-19 : comment sont conçus les modèles des épidémies ?](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies), Le journal du CNRS
 * [Le COVID-19 en Italie dès le 1er janvier 2020](https://www.lemonde.fr/blog/huet/2020/03/26/le-coronavirus-en-italie-des-le-1er-janvier-2020/), Silvestre Huet
-* [Une grippe à cent millions de morts](https://laviedesidees.fr/Freddy-Vinet-grande-grippe-1918-pire-epidemie-siecle.html), à propos de Freddy Vinet, La grande grippe. 1918, La pire épidémie du siècle
+* [Une grippe à cent millions de morts](https://laviedesidees.fr/Freddy-Vinet-grande-grippe-1918-pire-epidemie-siecle.html), à propos de Freddy Vinet, *La grande grippe. 1918, La pire épidémie du siècle*
 * ["Une maladie épidémique, c'est un phénomène social global](https://www.bastamag.net/Coronavirus-Covid19-cholera-peste-H1N1-ebola-epidemie-histoire-vaccin), Laurent-Henri Vignaud (historien des sciences biologiques)
 
 ### Généraliste
