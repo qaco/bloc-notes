@@ -51,7 +51,6 @@
 * [Pénurie de masques face au Covid-19 : la faillite des gouvernements successifs dans la gestion des stocks](https://www.bastamag.net/masques-chirurgicaux-FFP2-stocks-penurie-Covid19-malades-hopitaux-medecins-generalistes), Bastamag
 * [Hôpitaux : 4.200 lits d’hospitalisation supprimés en 2018](https://www.francetvinfo.fr/sante/hopital/hopitaux-4-200-lits-dhospitalisation-supprimes-en-2018_3663023.html), France Info
 * [D'où vient la crise des urgences ? Le cauchemar de "l'hôpital du futur"](https://www.monde-diplomatique.fr/2019/10/PIERRU/60490), Le Monde Diplomatique
-* [Résister à la «casse» de l'hôpital public](https://www.youtube.com/watch?v=lZbi5pvi3DQ), interview de Candice Lafarge (aide-soignante dans un hôpital parisien), Fanny Vincent et Pierre-André Juven (co-auteurs du livre La casse du siècle)
 * [La casse du siècle, À propos des réformes de l'hôpital public](www.raisonsdagir-editions.org/wp-content/uploads/Casse_siecle_pages.pdf), livre (gratuit pendant l'épidémie) de Pierre-André Juven, Frédéric Pierru, Fanny Vincent
 
 ### Épidémie et crise économique
@@ -142,6 +141,6 @@
 
 ### Général
 
-* [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), Secteur International du PCF
+* [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), secteur International du PCF
 * [Un monde instable et imprévisible à l'heure du coronavirus](https://lefildescommuns.fr/2020/03/17/un-monde-instable-et-imprevisible-a-lheure-du-coronavirus/), Christophe Aguiton (sociologue)
 * [« Profitons de la pandémie pour faire la paix avec la Terre »](https://www.lemonde.fr/idees/article/2020/03/17/mireille-delmas-marty-profitons-de-la-pandemie-pour-faire-la-paix-avec-la-terre_6033344_3232.html), Mireille Delmas-Marty (juriste)
