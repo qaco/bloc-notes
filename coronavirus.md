@@ -36,6 +36,7 @@
 * [Coronavirus : qu'est-ce que la réanimation, qui concerne près de 3000 patients?](https://www.huffingtonpost.fr/entry/coronavirus-quest-ce-que-la-reanimation-qui-concerne-pres-de-3000-patients_fr_5e7cbc89c5b6cb9dc19b9b87), Le Huffington Post
 * [Combien de temps le coronavirus survit-il sur les vêtements et comment les laver ?](https://www.huffingtonpost.fr/entry/coronavirus-vetements-guide_fr_5e7da604c5b6256a7a282562), Le Huffington Post
 * [Coronavirus : attention aux fausses informations sur le Covid-19 circulant sur les réseaux sociaux](https://www.pasteur.fr/fr/coronavirus-attention-aux-fausses-informations-covid-19-circulant-reseaux-sociaux), Institut Pasteur
+* [Coronavirus : confinements solidaires](https://www.youtube.com/watch?v=FCQA3T2S9XQ), vidéo Data Gueule
 
 ## Données en temps réel
 
