@@ -2,10 +2,10 @@
 
 ## Sommaire
 
-* [Culture générale sur l'épidémie](#Culture générale sur l'épidémie)
-* [Données en temps réel](#Données en temps réel)
-* [La politique dans l'épidémie](#La politique dans l'épidémie)
-* [Les Relations Internationales dans l'épidémie](#Les Relations Internationales dans l'épidémie)
+* [Culture générale sur l'épidémie](#culture-générale-sur-lépidémie)
+* [Données en temps réel](#données-en-temps-réel)
+* [La politique dans l'épidémie](#la-politique-dans-lépidémie)
+* [Les Relations Internationales dans l'épidémie](#les-relations-internationales-dans-lépidémie)
 
 ## Culture générale sur l'épidémie
 
