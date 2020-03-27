@@ -48,9 +48,9 @@
 ### Bilan de la casse de l'hôpital public et de la santé
 
 * [La France en pénurie de masques : aux origines des décisions d'État](https://theconversation.com/la-france-en-penurie-de-masques-aux-origines-des-decisions-detat-134371?utm_source=facebook&utm_medium=bylinefacebookbutton), The conversation
-* [Pénurie de masques face au Covid-19 : la faillite des gouvernements successifs dans la gestion des stocks](https://www.bastamag.net/masques-chirurgicaux-FFP2-stocks-penurie-Covid19-malades-hopitaux-medecins-generalistes), enquête de Bastamag
+* [Pénurie de masques face au Covid-19 : la faillite des gouvernements successifs dans la gestion des stocks](https://www.bastamag.net/masques-chirurgicaux-FFP2-stocks-penurie-Covid19-malades-hopitaux-medecins-generalistes), Bastamag
 * [Hôpitaux : 4.200 lits d’hospitalisation supprimés en 2018](https://www.francetvinfo.fr/sante/hopital/hopitaux-4-200-lits-dhospitalisation-supprimes-en-2018_3663023.html), France Info
-* [D'où vient la crise des urgences ? Le cauchement de "l'hôpital du futur"](https://www.monde-diplomatique.fr/2019/10/PIERRU/60490), Le Monde Diplomatique
+* [D'où vient la crise des urgences ? Le cauchemar de "l'hôpital du futur"](https://www.monde-diplomatique.fr/2019/10/PIERRU/60490), Le Monde Diplomatique
 * [Résister à la «casse» de l'hôpital public](https://www.youtube.com/watch?v=lZbi5pvi3DQ), interview de Candice Lafarge (aide-soignante dans un hôpital parisien), Fanny Vincent et Pierre-André Juven (co-auteurs du livre La casse du siècle)
 * [La casse du siècle, À propos des réformes de l'hôpital public](www.raisonsdagir-editions.org/wp-content/uploads/Casse_siecle_pages.pdf), livre (gratuit pendant l'épidémie) de Pierre-André Juven, Frédéric Pierru, Fanny Vincent
 
@@ -67,7 +67,7 @@
 
 * [Face au coronavirus, les femmes davantage en première ligne que les hommes](https://www.bastamag.net/coronavirus-Covid19-femmes-soignantes-TheLancet-inegalites-epidemies-sante), Bastamag
 * [Les sans-abris en première ligne face au Covid-19](https://www.politis.fr/articles/2020/03/les-sans-abris-en-premiere-ligne-face-au-covid-19-41486/?), Politis
-* [Les migrants de Calais abandonnés face au coronavirus](https://reporterre.net/Les-migrants-de-Calais-abandonnes-face-au-coronavirus), reportage de Reporterre
+* [Les migrants de Calais abandonnés face au coronavirus](https://reporterre.net/Les-migrants-de-Calais-abandonnes-face-au-coronavirus), Reporterre
 * [Avec le coronavirus et le confinement, le scandale des inégalités sociales éclate](https://www.huffingtonpost.fr/entry/avec-le-coronavirus-et-le-confinement-le-scandale-des-inegalites-sociales-eclate_fr_5e735534c5b63c3b648b2938), Anne Lambert (sociologue)
 
 ### Épidémie et politiques gouvernementales
@@ -75,12 +75,15 @@
 * [Quel rôle pour les armées dans la crise du Covid-19 ?](https://www.institutmontaigne.org/blog/quel-role-pour-les-armees-dans-la-crise-du-covid-19), Institut Montaigne
 * [Congés, 35 heures, licenciements: la loi d'adaptation au coronavirus va nous faire basculer dans un nouveau monde social](https://www.marianne.net/politique/conges-35-heures-licenciements-la-loi-d-adaptation-au-coronavirus-va-nous-faire-basculer), Marianne
 * [Analyse détaillée et critique de la loi (anti-salariés) d’urgence sanitaire](http://www.gerard-filoche.fr/2020/03/22/analyse-detailele-et-critique-de-la-loi-anti-salaries-durgence-sanitaire-et-droit-du-travail/), Gérard Filoche (inspecteur du travail)
-* [Virus : surveillance de masse, des USA à la France](https://www.arretsurimages.net/articles/virus-surveillance-de-masse-des-usa-a-la-france), enquête Arrêt sur Images
+* [Virus : surveillance de masse, des USA à la France](https://www.arretsurimages.net/articles/virus-surveillance-de-masse-des-usa-a-la-france), Arrêt sur Images
 * [Coronavirus : la France peut-elle utiliser les données mobiles des Français ?](https://www.lesnumeriques.com/telephone-portable/coronavirus-la-france-peut-elle-utiliser-les-donnees-mobiles-des-francais-n148735.html), Les Numériques
-* [Ehpad : la "guerre sans armes" des soignants](https://www.franceculture.fr/societe/ehpad-la-guerre-sans-armes-des-soignants), reportage France Culture
+* [Ehpad : la "guerre sans armes" des soignants](https://www.franceculture.fr/societe/ehpad-la-guerre-sans-armes-des-soignants), France Culture
 * [Crise du Covid-19 : donner la priorité à la reproduction sur la production](https://www.contretemps.eu/coronavirus-capitalisme-reproduction/), Aurore Koechlin
-* [Saturation d'internet : la saga d'une fausse alerte](https://www.arretsurimages.net/articles/saturation-dinternet-la-saga-dune-fausse-alerte), enquête Arrêt sur Images
-* [Urgences dans le silence !](https://lefildescommuns.fr/2020/03/24/urgences-dans-le-silence/), Elsa Faucillon
+* [Saturation d'internet : la saga d'une fausse alerte](https://www.arretsurimages.net/articles/saturation-dinternet-la-saga-dune-fausse-alerte), Arrêt sur Images
+* [Urgences dans le silence !](https://lefildescommuns.fr/2020/03/24/urgences-dans-le-silence/), Elsa Faucillon (députée PCF)
+* [Crise sanitaire : répondre par la solidarité](https://www.youtube.com/watch?v=fgXFQ8zI9XY&feature=youtu.be), intervention d'Elsa Faucillon (députée PCF) à l'Assemblée Nationale
+* [Vos belles paroles ne suffisent pas, monsieur le ministre. C'est de l'enfumage !](https://www.youtube.com/watch?time_continue=1&v=IXV-pg56axs&feature=emb_logo), intervention de Laurence Cohen (sénatrice PCF) au Sénat
+* [Les insoumis votent contre le plan Macron](https://www.youtube.com/watch?v=tYL1c4jGrrQ&feature=emb_logo), intervention de Jean-Luc Mélenchon (député LFI) à l'Assemblée Nationale
 * [Coronavirus, capitalisme, État, santé... : un avant et un après ?](https://solidairesfinancespubliques.org/le-syndicat/nos-engagements/paradis-fiscaux-dette/3117-coronavirus-capitalisme-etat-sante-un-avant-et-un-apres.html), Solidaires Finances Publiques
 * [L'ampleur de la crise sanitaire est liée à une crise institutionnelle](https://www.mediacites.fr/interview/national/2020/03/24/lampleur-de-la-crise-sanitaire-est-liee-a-une-crise-institutionnelle/), Fabien Desage (politiste)
 * [Entre campagne municipale et crise du coronavirus, le chemin de croix d'Agnès Buzyn](https://www.lemonde.fr/politique/article/2020/03/17/entre-campagne-municipale-et-crise-du-coronavirus-le-chemin-de-croix-d-agnes-buzyn_6033395_823448.html), entretien avec Agnès Buzyn (Le Monde)
@@ -89,6 +92,7 @@
 ### Mobilisations populaires
 
 * [Ingenieros españoles se unen para fabricar respiradores de bajo coste con impresoras 3D](https://www.lavanguardia.com/economia/20200320/474276268606/coronavirus-ingenieros-espanoles-fabrican-respiradoes-bajo-coste-impresoras-3d.html), La vanguardia
+* [500 masques Decathlon transformés en respirateurs grâce à l’impression 3D](https://www.3dnatives.com/masque-decathlon-respirateur-3d-250320203/), 3D Natives
 
 ### Que faire ?
 
@@ -97,14 +101,14 @@
 * [Dépister et fabriquer des masques, sinon le confinement n'aura servi à rien](https://reporterre.net/Depister-et-fabriquer-des-masques-sinon-le-confinement-n-aura-servi-a-rien), Gaël Giraud (économiste)
 * [Coronavirus : les 11 mesures d'urgence proposées par la France Insoumise](https://lafranceinsoumise.fr/2020/03/20/coronavirus-11-mesures-durgence/)
 * [Protect the people](https://www.protectthepeople.co.uk/), gauche britannique
-* [De l'urgence sanitaire à l'urgence civilisationnelle](http://www.pierrelaurent.org/coronavirus-de-lurgence-sanitaire-a-lurgence-civilisationnelle/), Pierre Laurent
-* [L'épreuve politique de la pandémie](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/190320/l-epreuve-politique-de-la-pandemie), Pierre Dardot et Christian Laval
+* [De l'urgence sanitaire à l'urgence civilisationnelle](http://www.pierrelaurent.org/coronavirus-de-lurgence-sanitaire-a-lurgence-civilisationnelle/), Pierre Laurent (sénateur PCF)
+* [L'épreuve politique de la pandémie](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/190320/l-epreuve-politique-de-la-pandemie), Pierre Dardot (philosophe) et Christian Laval (sociologue)
 * [Covid-19 : un virus très politique](https://entreleslignesentrelesmots.blog/2020/03/11/covid-19-un-virus-tres-politique/), Patrick Silberstein
 * [Propositions de mesures à prendre](https://www.cadtm.org/Serie-Covid-19-3-4-Propositions-de-mesures-a-prendre), CADTM Belgique
 * [Exemples de solidarités en cours](https://www.cadtm.org/Serie-Covid-19-2-4-Exemples-de-solidarites-en-cours), CADTM Belgique
 * [Le travail ou la vie : contester la subordination pour stopper l'épidémie](https://www.frustrationmagazine.fr/le-travail-ou-la-vie-contester-la-subordination-pour-stopper-lepidemie/), Thomas Coutrot (économiste)
 * [The pandemic, the working class and the left](https://www.european-left.org/the-pandemic-the-working-class-and-the-left/), Andrew Burgin (Left Unity, UK)
-* [Plus jamais ça ! 18 responsables d'organisations syndicales, associatives et environnementales appellent à préparer "le jour d’après"](https://www.francetvinfo.fr/sante/maladie/coronavirus/tribune-plus-jamais-ca-18responsables-d-organisations-syndicales-associatives-et-environnementales-appellent-a-preparer-le-jour-dapres_3886345.html)
+* [Plus jamais ça !](https://www.francetvinfo.fr/sante/maladie/coronavirus/tribune-plus-jamais-ca-18responsables-d-organisations-syndicales-associatives-et-environnementales-appellent-a-preparer-le-jour-dapres_3886345.html), 18 responsables d'organisations syndicales, associatives et environnementales appellent à préparer "le jour d’après"
 
 ## Les Relations Internationales dans l'épidémie
 
@@ -135,6 +139,6 @@
 ### La pandémie en Palestine
 
 * [Coronavirus : crainte d'un «désastre» à Gaza, cinq morts en Israël et un en Cisjordanie](https://francais.rt.com/international/73198-coronavirus-crainte-d-desastre-gaza-cinq-mort-en-israel-un-cisjordanie), RT France
-* [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), Secteeur International du PCF
+* [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), Secteur International du PCF
 * [Un monde instable et imprévisible à l'heure du coronavirus](https://lefildescommuns.fr/2020/03/17/un-monde-instable-et-imprevisible-a-lheure-du-coronavirus/), Christophe Aguiton (sociologue)
 * [« Profitons de la pandémie pour faire la paix avec la Terre »](https://www.lemonde.fr/idees/article/2020/03/17/mireille-delmas-marty-profitons-de-la-pandemie-pour-faire-la-paix-avec-la-terre_6033344_3232.html), Mireille Delmas-Marty (juriste)
