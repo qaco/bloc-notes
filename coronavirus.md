@@ -139,6 +139,9 @@
 ### La pandémie en Palestine
 
 * [Coronavirus : crainte d'un «désastre» à Gaza, cinq morts en Israël et un en Cisjordanie](https://francais.rt.com/international/73198-coronavirus-crainte-d-desastre-gaza-cinq-mort-en-israel-un-cisjordanie), RT France
+
+### Général
+
 * [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), Secteur International du PCF
 * [Un monde instable et imprévisible à l'heure du coronavirus](https://lefildescommuns.fr/2020/03/17/un-monde-instable-et-imprevisible-a-lheure-du-coronavirus/), Christophe Aguiton (sociologue)
 * [« Profitons de la pandémie pour faire la paix avec la Terre »](https://www.lemonde.fr/idees/article/2020/03/17/mireille-delmas-marty-profitons-de-la-pandemie-pour-faire-la-paix-avec-la-terre_6033344_3232.html), Mireille Delmas-Marty (juriste)
