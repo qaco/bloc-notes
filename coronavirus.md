@@ -53,6 +53,10 @@
 * [D'où vient la crise des urgences ? Le cauchemar de "l'hôpital du futur"](https://www.monde-diplomatique.fr/2019/10/PIERRU/60490), Le Monde Diplomatique
 * [La casse du siècle, À propos des réformes de l'hôpital public](www.raisonsdagir-editions.org/wp-content/uploads/Casse_siecle_pages.pdf), livre (gratuit pendant l'épidémie) de Pierre-André Juven, Frédéric Pierru, Fanny Vincent
 
+### Les conséquences climatiques de la pandémie
+
+* [Le covid-19 aura-t-il un effet si positif sur le climat ? ](https://www.neonmag.fr/le-covid-19-aura-il-un-effet-si-positif-sur-le-climat-552975.html), Neon Mag
+
 ### Épidémie et crise économique
 
 * [Le coronavirus précipite la crise, il ne la cause pas !](http://www.atterres.org/article/le-coronavirus-pr%C3%A9cipite-la-crise-il-ne-la-cause-pas), Frédéric Boccara (économiste)
@@ -128,6 +132,7 @@
 
 ### La pandémie en Chine et en Asie du Sud-Est
 
+* [COVID19 : comment la Chine a stoppé le virus](https://www.lemonde.fr/blog/huet/2020/03/27/covid19-comment-la-chine-a-stoppe-le-virus/#utm_source=rss&utm_medium=rss&utm_campaign=covid19-comment-la-chine-a-stoppe-le-virus), Sylvestre Huet
 * [Covid-19 : La démocratie, l’efficacité politique et l’attente des peuples](https://www.questionchine.net/covid-19-la-democratie-l-efficacite-politique-et-l-attente-des-peuples), Question Chine
 * [Les efforts "tehno-nationalistes" de Pékin](https://www.questionchine.net/les-efforts-techno-nationalistes-de-pekin), Question Chine
 * [Covid-19 : gestion de crise exemplaire au Vietnam](http://lescahiersdunem.fr/covid-19-gestion-de-crise-exemplaire-au-vietnam/), Les cahiers du nem
