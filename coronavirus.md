@@ -59,7 +59,10 @@
 * [Coronavirus : qu'est-ce que la réanimation, qui concerne près de 3000 patients?](https://www.huffingtonpost.fr/entry/coronavirus-quest-ce-que-la-reanimation-qui-concerne-pres-de-3000-patients_fr_5e7cbc89c5b6cb9dc19b9b87), Le Huffington Post
 * [Combien de temps le coronavirus survit-il sur les vêtements et comment les laver ?](https://www.huffingtonpost.fr/entry/coronavirus-vetements-guide_fr_5e7da604c5b6256a7a282562), Le Huffington Post
 * [Coronavirus : attention aux fausses informations sur le Covid-19 circulant sur les réseaux sociaux](https://www.pasteur.fr/fr/coronavirus-attention-aux-fausses-informations-covid-19-circulant-reseaux-sociaux), Institut Pasteur
+* [Coronavirus : notre guide pour distinguer les fausses rumeurs des vrais conseils](https://www.lemonde.fr/les-decodeurs/article/2020/03/13/coronavirus-petit-guide-pour-distinguer-les-fausses-rumeurs-des-vrais-conseils_6032938_4355770.html), Le Monde
 * [Coronavirus : confinements solidaires](https://www.youtube.com/watch?v=FCQA3T2S9XQ), vidéo Data Gueule
+* [Sur le COVID-19, le CNRS donne la parole à la science](https://soundcloud.com/cnrs_officiel/sets/covid19-parole-a-la-science), podcast avec différents chercheurs du CNRS
+* [Une première infographie détaillée de l'épidémie de Covid-19 en France](https://www.lefigaro.fr/sciences/une-premiere-photographie-detaillee-de-l-epidemie-de-covid-19-en-france-20200326), Le Figaro
 
 ## Données en temps réel
 
@@ -67,6 +70,7 @@
 * [Tracking the coronavirus: the latest figures](https://www.ft.com/coronavirus-latest), The Financial Times
 * [Policy Responses to COVID-19](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19), FMI
 * [Visualisez la propagation mondiale de l'épidémie de coronavirus](https://www.lemonde.fr/les-decodeurs/article/2020/02/27/en-carte-visualisez-la-propagation-mondiale-de-l-epidemie-de-coronavirus_6031092_4355770.html), Le Monde
+* [Visualisez les pays qui ont "aplati la courbe"](https://www.lemonde.fr/les-decodeurs/article/2020/03/27/coronavirus-visualisez-les-pays-qui-ont-aplati-la-courbe-de-l-infection-et-ceux-qui-n-y-sont-pas-encore-parvenus_6034627_4355770.html), Le Monde
 
 ## La politique dans l'épidémie
 
