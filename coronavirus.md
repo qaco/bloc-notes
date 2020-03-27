@@ -35,6 +35,7 @@
 * [Chat avec le docteur Gilles Pialoux](https://www.lemonde.fr/societe/article/2020/03/26/coronavirus-tout-dependra-de-notre-capacite-a-absorber-l-arrivee-de-malades-en-reanimation_6034515_3224.html), Le Monde
 * [Coronavirus : qu'est-ce que la réanimation, qui concerne près de 3000 patients?](https://www.huffingtonpost.fr/entry/coronavirus-quest-ce-que-la-reanimation-qui-concerne-pres-de-3000-patients_fr_5e7cbc89c5b6cb9dc19b9b87), Le Huffington Post
 * [Combien de temps le coronavirus survit-il sur les vêtements et comment les laver ?](https://www.huffingtonpost.fr/entry/coronavirus-vetements-guide_fr_5e7da604c5b6256a7a282562), Le Huffington Post
+* [Coronavirus : attention aux fausses informations sur le Covid-19 circulant sur les réseaux sociaux](https://www.pasteur.fr/fr/coronavirus-attention-aux-fausses-informations-covid-19-circulant-reseaux-sociaux), Institut Pasteur
 
 ## Données en temps réel
 
@@ -72,6 +73,7 @@
 * [Les sans-abris en première ligne face au Covid-19](https://www.politis.fr/articles/2020/03/les-sans-abris-en-premiere-ligne-face-au-covid-19-41486/?), Politis
 * [Les migrants de Calais abandonnés face au coronavirus](https://reporterre.net/Les-migrants-de-Calais-abandonnes-face-au-coronavirus), Reporterre
 * [Avec le coronavirus et le confinement, le scandale des inégalités sociales éclate](https://www.huffingtonpost.fr/entry/avec-le-coronavirus-et-le-confinement-le-scandale-des-inegalites-sociales-eclate_fr_5e735534c5b63c3b648b2938), Anne Lambert (sociologue)
+* [Professions et salaires : les métiers en première ligne face au COVID-19](https://fr.statista.com/infographie/21234/salaire-moyen-brut-mensuel-selection-de-metiers-indispensables-durant-la-crise-du-coronavirus/?utm_campaign=a4f8497978-All_InfographTicker_daily_FR_14h_KW13_We&utm_medium=email&utm_source=Statista+Global&utm_term=0_afecd219f5-a4f8497978-300808505), Statista
 
 ### Épidémie et politiques gouvernementales
 
@@ -140,9 +142,10 @@
 * [La Chine au chevet de la mondialisation](https://www.iris-france.org/145590-la-chine-au-chevet-de-la-mondialisation/), IRIS
 * [Largement guérie du coronavirus, la Chine passe à l'offensive](http://www.slate.fr/story/189027/chine-coronavirus-epidemie-levee-confinement-economie-investissements-gestion-crise-tensions-internationales), Slate
 
-### La pandémie en Palestine
+### La pandémie au Moyen-Orient
 
 * [Coronavirus : crainte d'un «désastre» à Gaza, cinq morts en Israël et un en Cisjordanie](https://francais.rt.com/international/73198-coronavirus-crainte-d-desastre-gaza-cinq-mort-en-israel-un-cisjordanie), RT France
+* [L’épidémie de coronavirus, si elle se propage en Syrie, risque d’y faire des ravages](http://www.famillesunies.fr/2020/03/23/communique-du-collectif-des-familles-unies-lepidemie-de-coronavirus-si-elle-se-propage-en-syrie-risque-dy-faire-des-ravages-face-a-cette-pandemie-les-enfants-francais-prison/), communiqué du Collectif des Familles Unies
 
 ### Général
 
