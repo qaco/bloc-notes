@@ -3,6 +3,7 @@
 ## Sommaire
 
 * [Culture générale sur l'épidémie](#culture-générale-sur-lépidémie)
+  + [Virologie](#virologie)
 * [Données en temps réel](#données-en-temps-réel)
 * [La politique dans l'épidémie](#la-politique-dans-lépidémie)
 * [Les Relations Internationales dans l'épidémie](#les-relations-internationales-dans-lépidémie)
