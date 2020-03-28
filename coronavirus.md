@@ -14,7 +14,7 @@
   + [Épidémie et crise économique](#épidémie-et-crise-économique)
   + [Épidémie et injustices sociales](#épidémie-et-injustices-sociales)
   + [Épidémie et politiques gouvernementales](#épidémie-et-politiques-gouvernementales)
-  + [Mobilisations populaires](#mobilisations-populaires)
+  + [Initiatives civiles face à l'épidémie](#initiatives-civiles-face-à-lépidémie)
   + [Que faire ?](#que-faire-)
 * [Les Relations Internationales dans l'épidémie](#les-relations-internationales-dans-lépidémie)
   + [La pandémie en Europe](#la-pandémie-en-europe)
@@ -29,6 +29,7 @@
 ### Virologie
 
 * [Le fonctionnement des coronavirus](https://multimedia.scmp.com/infographics/news/china/article/3075382/decoding-coronavirus-covid-19/index.html), South China Morning Post
+* [Il était une fois les coronavirus](https://www.lemonde.fr/blog/realitesbiomedicales/2020/03/27/il-etait-une-fois-les-coronavirus%e2%80%a8/), Le Monde
 * [Vaccins et traitements contre le Covid-19 : les principales pistes](https://www.pourlascience.fr/sr/covid-19/vaccins-et-traitements-contre-le-covid-19-les-principales-pistes-19021.php), Pour la science
 * [Covid-19 et essais de médicaments : que faire des premiers résultats d'évaluation ?](https://www.prescrire.org/fr/203/1845/58597/0/PositionDetails.aspx), Prescrire
 * [Le supercalculateur d'IBM accélère la recherche contre le coronavirus](https://www.futura-sciences.com/tech/actualites/technologie-supercalculateur-ibm-accelere-recherche-coronavirus-80149/), Futura sciences
@@ -124,6 +125,7 @@
 * [Ingenieros españoles se unen para fabricar respiradores de bajo coste con impresoras 3D](https://www.lavanguardia.com/economia/20200320/474276268606/coronavirus-ingenieros-espanoles-fabrican-respiradoes-bajo-coste-impresoras-3d.html), La vanguardia
 * [500 masques Decathlon transformés en respirateurs grâce à l’impression 3D](https://www.3dnatives.com/masque-decathlon-respirateur-3d-250320203/), 3D Natives
 * [Coronavirus : les résistants du textile au chevet de la crise sanitaire](https://www.pourleco.com/en-vrai/la-fabrique-de-leco/ces-resistants-du-textile-qui-produisent-des-masques-en-urgence), Pour l'éco
+* [Les colleuses d’affiches antiféminicides s’adaptent au confinement](https://www.lemonde.fr/societe/article/2020/03/27/les-colleuses-d-affiches-anti-feminicides-s-adaptent-au-confinement_6034696_3224.html), Le Monde
 
 ### Que faire ?
 
