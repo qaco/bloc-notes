@@ -147,6 +147,7 @@
 * [Coronavirus : les résistants du textile au chevet de la crise sanitaire](https://www.pourleco.com/en-vrai/la-fabrique-de-leco/ces-resistants-du-textile-qui-produisent-des-masques-en-urgence), Pour l'éco
 * [Les colleuses d’affiches antiféminicides s’adaptent au confinement](https://www.lemonde.fr/societe/article/2020/03/27/les-colleuses-d-affiches-anti-feminicides-s-adaptent-au-confinement_6034696_3224.html), Le Monde
 * [Exemples de solidarités en cours](https://www.cadtm.org/Serie-Covid-19-2-4-Exemples-de-solidarites-en-cours), CADTM Belgique
+* [Covid-19 : les bons petits plats des chefs pour le personnel hospitalier](https://www.franceculture.fr/gastronomie/covid-19-les-bons-petits-plats-des-chefs-pour-le-personnel-hospitalier), France Culture
 
 ### Que faire ?
 
