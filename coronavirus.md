@@ -65,6 +65,7 @@
 
 ### Généraliste
 
+* [Dépistage du Covid-19 : quels sont ces réactifs dont on manque?](https://www.liberation.fr/sciences/2020/03/26/depistage-du-covid-19-quels-sont-ces-reactifs-dont-on-manque_1783043?xtor=rss-450), Libération
 * [Hommes et femmes sont-ils égaux face au Covid-19 ?](https://www.liberation.fr/checknews/2020/03/29/hommes-et-femmes-sont-ils-egaux-face-au-covid-19_1783139?xtor=rss-450), Libération
 * [Coronavirus : nos réponses à vos questions pour mieux comprendre l'épidémie](https://www.lemonde.fr/les-decodeurs/article/2020/02/26/coronavirus-nos-reponses-a-vos-questions-pour-mieux-comprendre-l-epidemie_6030940_4355770.html), Le Monde
 * [Comment fonctionne le virus ?](https://www.cadtm.org/Serie-Covid-19-1-4-Comment-fonctionne-le-virus), CADTM Belgique
@@ -134,6 +135,7 @@
 * [L'ampleur de la crise sanitaire est liée à une crise institutionnelle](https://www.mediacites.fr/interview/national/2020/03/24/lampleur-de-la-crise-sanitaire-est-liee-a-une-crise-institutionnelle/), Fabien Desage (politiste)
 * [Entre campagne municipale et crise du coronavirus, le chemin de croix d'Agnès Buzyn](https://www.lemonde.fr/politique/article/2020/03/17/entre-campagne-municipale-et-crise-du-coronavirus-le-chemin-de-croix-d-agnes-buzyn_6033395_823448.html), entretien avec Agnès Buzyn (Le Monde)
 * [Covid-19 : le nombre de cas au rassemblement évangélique de Mulhouse largement sous-estimé](https://www.franceculture.fr/societe/covid-19-le-nombre-de-cas-au-rassemblement-evangelique-de-mulhouse-largement-sous-estime), France Culture
+* [Frontières, masques, tests : le plan "pandémie" a-t-il vraiment été appliqué ?](https://www.lefigaro.fr/sciences/frontieres-masques-tests-le-plan-pandemie-a-t-il-vraiment-ete-applique-20200327), Le Figaro
 
 ### Le capitalisme en crise sanitaire
 
@@ -150,6 +152,8 @@
 * [Exemples de solidarités en cours](https://www.cadtm.org/Serie-Covid-19-2-4-Exemples-de-solidarites-en-cours), CADTM Belgique
 * [Covid-19 : les bons petits plats des chefs pour le personnel hospitalier](https://www.franceculture.fr/gastronomie/covid-19-les-bons-petits-plats-des-chefs-pour-le-personnel-hospitalier), France Culture
 * [Tests Covid-19: les labos de santé animale réclament d’être réquisitionnés ](https://www.mediapart.fr/journal/france/290320/tests-covid-19-les-labos-de-sante-animale-reclament-d-etre-requisitionnes), Mediapart
+* [Agir confiné ? Des propositions d’actions pour afficher son soutien](https://lafranceinsoumise.fr/2020/03/25/agir-confine-propositions-actions-afficher-soutien/), LFI
+* [Que valent vraiment les masques en tissu fabriqués à la maison contre le coronavirus? ](http://www.slate.fr/story/188889/masques-tissu-fait-maison-pandemie-coronavirus-efficacite), Slate
 
 ### Que faire ?
 
@@ -210,6 +214,7 @@
 * [Coronavirus : comment le Vietnam, pays « en développement », réussit à faire bien mieux que la France](https://seenthis.net/messages/835542), Nouvel Obs
 * [Corée du Sud : dépistages, investigations ciblées et la question de la vie privée](https://www.institutmontaigne.org/blog/coronavirus-lasie-orientale-face-la-pandemie-coree-du-sud-depistages-investigations-ciblees-et-la), Institut Montaigne
 * [La Chine au chevet de la mondialisation](https://www.iris-france.org/145590-la-chine-au-chevet-de-la-mondialisation/), IRIS
+* [Affaibli à l’intérieur, le parti redore son blason dans le monde](https://www.questionchine.net/affaibli-a-l-interieur-le-parti-redore-son-blason-dans-le-monde), Question Chine
 
 ### La pandémie au Moyen-Orient
 
