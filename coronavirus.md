@@ -154,6 +154,7 @@
 * [Tests Covid-19: les labos de santé animale réclament d’être réquisitionnés ](https://www.mediapart.fr/journal/france/290320/tests-covid-19-les-labos-de-sante-animale-reclament-d-etre-requisitionnes), Mediapart
 * [Agir confiné ? Des propositions d’actions pour afficher son soutien](https://lafranceinsoumise.fr/2020/03/25/agir-confine-propositions-actions-afficher-soutien/), LFI
 * [Que valent vraiment les masques en tissu fabriqués à la maison contre le coronavirus? ](http://www.slate.fr/story/188889/masques-tissu-fait-maison-pandemie-coronavirus-efficacite), Slate
+* [Lutte contre le coronavirus : le projet Folding@Home se transforme en monstre de calcul](https://www.01net.com/actualites/lutte-contre-le-coronavirus-le-projet-foldinghome-se-transforme-en-monstre-de-calcul-1880500.html), 01Net
 
 ### Que faire ?
 
