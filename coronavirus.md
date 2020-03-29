@@ -22,6 +22,7 @@
   + [La pandémie en Europe](#la-pandémie-en-europe)
   + [Espagne et Portugal](#espagne-et-portugal)
   + [L'aide internationale](#laide-internationale)
+  + [La pandémie aux États-Unis](#la-pandémie-aux-états-unis)
   + [La pandémie en Amérique latine](#la-pandémie-en-amérique-latine)
   + [La pandémie en Chine et en Asie du Sud-Est](#la-pandémie-en-chine-et-en-asie-du-sud-est)
   + [La pandémie au Moyen-Orient](#la-pandémie-au-moyen-orient)
@@ -148,6 +149,7 @@
 * [Les colleuses d’affiches antiféminicides s’adaptent au confinement](https://www.lemonde.fr/societe/article/2020/03/27/les-colleuses-d-affiches-anti-feminicides-s-adaptent-au-confinement_6034696_3224.html), Le Monde
 * [Exemples de solidarités en cours](https://www.cadtm.org/Serie-Covid-19-2-4-Exemples-de-solidarites-en-cours), CADTM Belgique
 * [Covid-19 : les bons petits plats des chefs pour le personnel hospitalier](https://www.franceculture.fr/gastronomie/covid-19-les-bons-petits-plats-des-chefs-pour-le-personnel-hospitalier), France Culture
+* [Tests Covid-19: les labos de santé animale réclament d’être réquisitionnés ](https://www.mediapart.fr/journal/france/290320/tests-covid-19-les-labos-de-sante-animale-reclament-d-etre-requisitionnes), Mediapart
 
 ### Que faire ?
 
@@ -189,6 +191,11 @@
 * [Avec la crise sanitaire, Cuba exporte plus que jamais ses médecins](https://www.franceculture.fr/societe/avec-la-crise-sanitaire-cuba-exporte-plus-que-jamais-ses-medecins), France Culture
 * [Coronavirus: la Russie, la Chine et Cuba au chevet de l'Italie ](http://www.rfi.fr/fr/europe/20200322-coronavirus-arm%C3%A9e-russe-d%C3%A9p%C3%AAche-centaine-virologues-italie), RFI
 * [Chine, Russie, Cuba : solidarité-spectacle ?](https://www.arretsurimages.net/articles/chine-russie-cuba-solidarite-spectacle), Arrêt sur images
+
+### La pandémie aux États-Unis
+
+* [COVID-19 : les États-Unis face au désastre qui vient](https://lvsl.fr/covid-19-les-etats-unis-face-au-desastre-qui-vient/), LVSL
+* [Covid-19 : le fiasco des tests aux Etats-Unis ](https://www.liberation.fr/planete/2020/03/29/covid-19-le-fiasco-des-tests-aux-etats-unis_1783438?xtor=rss-450), Libération
 
 ### La pandémie en Amérique latine
 
