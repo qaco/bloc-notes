@@ -57,6 +57,7 @@
 * [Covid-19 : comment sont conçus les modèles des épidémies ?](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies), Le journal du CNRS
 * [Le COVID-19 en Italie dès le 1er janvier 2020](https://www.lemonde.fr/blog/huet/2020/03/26/le-coronavirus-en-italie-des-le-1er-janvier-2020/), Silvestre Huet
 * ["Une maladie épidémique, c'est un phénomène social global"](https://www.bastamag.net/Coronavirus-Covid19-cholera-peste-H1N1-ebola-epidemie-histoire-vaccin), Laurent-Henri Vignaud (historien des sciences biologiques)
+* [Cet article scientifique prémonitoire avait alerté d'une épidémie de coronavirus il y a plus de dix ans](https://www.heidi.news/articles/cet-article-scientifique-premonitoire-avait-alerte-d-une-epidemie-de-coronavirus-il-y-a-plus-de-dix-ans), Heidi News
 
 ### Recommandations
 
@@ -172,6 +173,7 @@
 * [The pandemic, the working class and the left](https://www.european-left.org/the-pandemic-the-working-class-and-the-left/), Andrew Burgin (Left Unity, UK)
 * [Plus jamais ça !](https://www.francetvinfo.fr/sante/maladie/coronavirus/tribune-plus-jamais-ca-18responsables-d-organisations-syndicales-associatives-et-environnementales-appellent-a-preparer-le-jour-dapres_3886345.html), 18 responsables d'organisations syndicales, associatives et environnementales appellent à préparer "le jour d’après"
 * [Crise du Coronavirus : sortir du déni. Et tout reconstruire.](https://www.amisdelaterre.org/crise-du-coronavirus-sortir-du-deni-et-tout-reconstruire/), Les Amis de la Terre
+* [Coronavirus: pourquoi il ne faut pas espérer un retour à la normale dans les prochains mois](https://www.heidi.news/articles/covid-19-a-quoi-ressemblera-le-monde-dans-les-prochains-mois), Heidi News
 
 ## Les Relations Internationales dans l'épidémie
 
@@ -210,6 +212,7 @@
 ### La pandémie en Chine et en Asie du Sud-Est
 
 * [COVID19 : comment la Chine a stoppé le virus](https://www.lemonde.fr/blog/huet/2020/03/27/covid19-comment-la-chine-a-stoppe-le-virus/#utm_source=rss&utm_medium=rss&utm_campaign=covid19-comment-la-chine-a-stoppe-le-virus), Sylvestre Huet
+* [Covid-19 : comment la Chine a-t-elle considérablement augmenté sa production de masques ?](https://www.frstrategie.org/publications/notes/covid-19-comment-chine-t-elle-considerablement-augmente-sa-production-masques-2020), Fondation pour la Recherche Stratégique
 * [Covid-19 : La démocratie, l’efficacité politique et l’attente des peuples](https://www.questionchine.net/covid-19-la-democratie-l-efficacite-politique-et-l-attente-des-peuples), Question Chine
 * [Les efforts "tehno-nationalistes" de Pékin](https://www.questionchine.net/les-efforts-techno-nationalistes-de-pekin), Question Chine
 * [Covid-19 : gestion de crise exemplaire au Vietnam](http://lescahiersdunem.fr/covid-19-gestion-de-crise-exemplaire-au-vietnam/), Les cahiers du nem
