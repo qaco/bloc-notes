@@ -85,6 +85,7 @@
 * [Visualisez la propagation mondiale de l'épidémie de coronavirus](https://www.lemonde.fr/les-decodeurs/article/2020/02/27/en-carte-visualisez-la-propagation-mondiale-de-l-epidemie-de-coronavirus_6031092_4355770.html), Le Monde
 * [Visualisez les pays qui ont "aplati la courbe"](https://www.lemonde.fr/les-decodeurs/article/2020/03/27/coronavirus-visualisez-les-pays-qui-ont-aplati-la-courbe-de-l-infection-et-ceux-qui-n-y-sont-pas-encore-parvenus_6034627_4355770.html), Le Monde
 * [Suivi épidémiologique du COVID-19 dans le monde et à l'IHU Méditerranée Infection](https://www.mediterranee-infection.com/covid-19/), IHU Méditerranée
+* [Covid-19 charts](https://valis.pub/), Octopicorn
 
 ## La politique dans l'épidémie
 
