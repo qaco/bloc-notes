@@ -199,6 +199,7 @@
 * [Covid-19 : La démocratie, l’efficacité politique et l’attente des peuples](https://www.questionchine.net/covid-19-la-democratie-l-efficacite-politique-et-l-attente-des-peuples), Question Chine
 * [Les efforts "tehno-nationalistes" de Pékin](https://www.questionchine.net/les-efforts-techno-nationalistes-de-pekin), Question Chine
 * [Covid-19 : gestion de crise exemplaire au Vietnam](http://lescahiersdunem.fr/covid-19-gestion-de-crise-exemplaire-au-vietnam/), Les cahiers du nem
+* [Coronavirus : comment le Vietnam, pays « en développement », réussit à faire bien mieux que la France](https://seenthis.net/messages/835542), Nouvel Obs
 * [Corée du Sud : dépistages, investigations ciblées et la question de la vie privée](https://www.institutmontaigne.org/blog/coronavirus-lasie-orientale-face-la-pandemie-coree-du-sud-depistages-investigations-ciblees-et-la), Institut Montaigne
 * [La Chine au chevet de la mondialisation](https://www.iris-france.org/145590-la-chine-au-chevet-de-la-mondialisation/), IRIS
 
