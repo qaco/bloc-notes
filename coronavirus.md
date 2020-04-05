@@ -7,7 +7,7 @@
   + [Émergence](#émergence)
   + [Épidémiologie](#épidémiologie)
   + [Recommandations](#recommandations)
-  + [Généraliste](#généraliste)
+  + [Divers](#divers)
 * [Données en temps réel](#données-en-temps-réel)
 * [La politique dans l'épidémie](#la-politique-dans-lépidémie)
   + [Bilan de la casse de l'hôpital public et de la santé](#bilan-de-la-casse-de-lhôpital-public-et-de-la-santé)
@@ -32,16 +32,31 @@
 
 ### Virologie
 
+#### Généralités
+
 * [Le fonctionnement des coronavirus](https://multimedia.scmp.com/infographics/news/china/article/3075382/decoding-coronavirus-covid-19/index.html), South China Morning Post
 * [Il était une fois les coronavirus](https://www.lemonde.fr/blog/realitesbiomedicales/2020/03/27/il-etait-une-fois-les-coronavirus%e2%80%a8/), Le Monde
+* [Hommes et femmes sont-ils égaux face au Covid-19 ?](https://www.liberation.fr/checknews/2020/03/29/hommes-et-femmes-sont-ils-egaux-face-au-covid-19_1783139?xtor=rss-450), Libération
+* [Pourquoi les enfants sont-ils moins touchés par le Covid-19 ?](https://www.franceculture.fr/emissions/radiographies-du-coronavirus/pourquoi-les-enfants-sont-ils-moins-touches-par-le-covid-19), France Culture
+* [La remontée des températures diminuera-t-elle l'intensité de la pandémie ?](https://www.heidi.news/articles/la-remontee-des-temperatures-diminuera-t-elle-l-intensite-de-la-pandemie), Heidi News
+
+#### Recherche
+
 * [Comment Thomas Pesquet a participé à la lutte contre le coronavirus depuis l'espace](https://www.futura-sciences.com/sciences/actualites/thomas-pesquet-thomas-pesquet-participe-lutte-coronavirus-depuis-espace-65277/#xtor%3DRSS-8), Futura Sciences
-* [Vaccins et traitements contre le Covid-19 : les principales pistes](https://www.pourlascience.fr/sr/covid-19/vaccins-et-traitements-contre-le-covid-19-les-principales-pistes-19021.php), Pour la science
-* [Covid-19 et essais de médicaments : que faire des premiers résultats d'évaluation ?](https://www.prescrire.org/fr/203/1845/58597/0/PositionDetails.aspx), Prescrire
 * [Le supercalculateur d'IBM accélère la recherche contre le coronavirus](https://www.futura-sciences.com/tech/actualites/technologie-supercalculateur-ibm-accelere-recherche-coronavirus-80149/), Futura sciences
-* [Didier Raoult accusé de fraude scientifique: que faut-il croire? ](http://hemisphere-gauche.blogs.liberation.fr/2020/03/28/didier-raoult-accuse-de-fraude-scientifique-que-faut-il-croire/), Romain Ligneul (neuroscientifique)
+
+#### Diagnostic et soin
+
+* [Covid-19 : le point sur les tests de diagnostic](https://www.pourlascience.fr/sr/covid-19/covid-19-le-point-sur-les-tests-de-diagnostic-19049.php), Pour la science
+* [Coronavirus: quelle place donner au scanner thoracique dans le diagnostic?](https://www.heidi.news/articles/covid-19-quelle-place-donner-au-scanner-thoracique-dans-le-diagnostic), Heidi News
+* [Dépistage du Covid-19 : quels sont ces réactifs dont on manque?](https://www.liberation.fr/sciences/2020/03/26/depistage-du-covid-19-quels-sont-ces-reactifs-dont-on-manque_1783043?xtor=rss-450), Libération
+* [Every Vaccine and Treatment in Development for COVID-19, So Far](https://www.visualcapitalist.com/every-vaccine-treatment-covid-19-so-far/), Visual capitalist
+* [Coronavirus : qu'est-ce que la réanimation, qui concerne près de 3000 patients?](https://www.huffingtonpost.fr/entry/coronavirus-quest-ce-que-la-reanimation-qui-concerne-pres-de-3000-patients_fr_5e7cbc89c5b6cb9dc19b9b87), Le Huffington Post
+* [Comment fonctionnent les masques de protection respiratoire ?](https://www.pourlascience.fr/sr/idees-physique/comment-fonctionnent-les-masques-de-protection-respiratoire-19054.php), Pour la science
 
 ### Émergence
 
+* [Coronavirus : « Les animaux qui nous ont infectés ne sont pas venus à nous ; nous sommes allés les chercher »](https://www.lemonde.fr/idees/article/2020/03/29/coronavirus-la-pandemie-demande-que-nous-re-definissions-un-contrat-naturel-et-social-entre-l-homme-et-la-nature_6034804_3232.html), Ibrahim Thiaw (Secrétaire exécutif de la Convention des Nations unies sur la lutte contre la désertification)
 * [Les hasards variables des émergences virales](https://www.larecherche.fr/covid-19-coronavirus-epid%C3%A9miologie/les-hasards-variables-des-%C3%A9mergences-virales), Samuel Alizon (biologiste)
 * [Crise sanitaire et crise écologique](http://tnova.fr/notes/crise-ecologique-et-crise-sanitaire), Terra Nova
 * [Covid-19 ou la chronique d'une émergence annoncée](https://laviedesidees.fr/Covid-19-chronique-d-une-emergence-annoncee.html), texte de Philippe Sansonetti (microbiologue)
@@ -50,33 +65,21 @@
 ### Épidémiologie
 
 * [Visualiser l'histoire des pandémies](https://www.visualcapitalist.com/history-of-pandemics-deadliest/)
-* [De la grippe espagnole de 1918-1919 au coronavirus de 2019-2020](https://revue-progressistes.org/2020/03/22/de-la-grippe-espagnole-de-1918-1919-au-coronavirus-de-2019-2020/), Chloé Maurel (historienne)
 * [Une grippe à cent millions de morts](https://laviedesidees.fr/Freddy-Vinet-grande-grippe-1918-pire-epidemie-siecle.html), à propos de Freddy Vinet, *La grande grippe. 1918, La pire épidémie du siècle*
-* [Est-il vrai que la «grippe de Hongkong» de 1968 avait été minimisée dans les médias ? ](https://www.liberation.fr/checknews/2020/03/28/est-il-vrai-que-la-grippe-de-hongkong-de-1968-avait-ete-minimisee-dans-les-medias_1783363?xtor=rss-450), Libération (Checknews)
+* [L'épidémie qui a inventé les soins intensifs](http://aaafasso.fr/nature-environnement/lepidemie-qui-a-invente-les-soins-intensifs/), AAAFASSO Mag
 * [Pourquoi des épidémies comme celle du coronavirus se propagent de manière exponentielle et comment “aplatir la courbe”?](https://www.washingtonpost.com/graphics/2020/health/corona-simulator-french/), Washington Post
 * [Covid-19 : comment sont conçus les modèles des épidémies ?](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies), Le journal du CNRS
+* [Comment comprendre les différentes courbes de l'épidémie de coronavirus ?](https://www.heidi.news/sante/comment-comprendre-les-differentes-courbes-de-l-epidemie-de-coronavirus), Heidi News
+* [Comment fonctionne le virus ?](https://www.cadtm.org/Serie-Covid-19-1-4-Comment-fonctionne-le-virus), CADTM Belgique
+* [Une première infographie détaillée de l'épidémie de Covid-19 en France](https://www.lefigaro.fr/sciences/une-premiere-photographie-detaillee-de-l-epidemie-de-covid-19-en-france-20200326), Le Figaro
 * [Le COVID-19 en Italie dès le 1er janvier 2020](https://www.lemonde.fr/blog/huet/2020/03/26/le-coronavirus-en-italie-des-le-1er-janvier-2020/), Silvestre Huet
 * ["Une maladie épidémique, c'est un phénomène social global"](https://www.bastamag.net/Coronavirus-Covid19-cholera-peste-H1N1-ebola-epidemie-histoire-vaccin), Laurent-Henri Vignaud (historien des sciences biologiques)
-* [Cet article scientifique prémonitoire avait alerté d'une épidémie de coronavirus il y a plus de dix ans](https://www.heidi.news/articles/cet-article-scientifique-premonitoire-avait-alerte-d-une-epidemie-de-coronavirus-il-y-a-plus-de-dix-ans), Heidi News
-
-### Recommandations
-
-* [Coronavirus : confinements solidaires](https://www.youtube.com/watch?v=FCQA3T2S9XQ), vidéo Data Gueule
+* [En Chine et en Italie, « les premiers foyers épidémiques sont des zones très polluées »](https://reporterre.net/En-Chine-et-en-Italie-les-premiers-foyers-epidemiques-sont-des-zones-tres-polluees)
+* [Data : face au coronavirus, le pari mortel de l'immunité collective](https://www.lemediatv.fr/emissions/2020/data-face-au-coronavirus-le-pari-mortel-de-limmunite-collective-st8-Yg2BSDWB7dcMPMW6sA), Le Média
+* [Data : Les morts invisibles du coronavirus : la vérité derrière les chiffres officiels](https://www.lemediatv.fr/articles/2020/data-les-morts-invisibles-du-coronavirus-la-verite-derriere-les-chiffres-officiels-SaYKcOT9RFaTkUMNO7HOYg), Le Média
+* [Covid-19 : ces lanceurs d’alerte menacés pour avoir dit la vérité sur la pandémie](https://www.franceculture.fr/societe/covid-19-ces-lanceurs-dalerte-menaces-pour-avoir-dit-la-verite-sur-la-pandemie), France Culture
+* [What a WoW virtual outbreak taught us about how humans behave in epidemics](https://arstechnica.com/science/2020/03/that-time-world-of-warcraft-helped-epidemiologists-model-an-outbreak/), Ars Technica
 * [The math behind social distancing](https://www.visualcapitalist.com/the-math-behind-social-distancing/), Visual capitalist
-
-### Généraliste
-
-* [Dépistage du Covid-19 : quels sont ces réactifs dont on manque?](https://www.liberation.fr/sciences/2020/03/26/depistage-du-covid-19-quels-sont-ces-reactifs-dont-on-manque_1783043?xtor=rss-450), Libération
-* [Hommes et femmes sont-ils égaux face au Covid-19 ?](https://www.liberation.fr/checknews/2020/03/29/hommes-et-femmes-sont-ils-egaux-face-au-covid-19_1783139?xtor=rss-450), Libération
-* [Coronavirus : nos réponses à vos questions pour mieux comprendre l'épidémie](https://www.lemonde.fr/les-decodeurs/article/2020/02/26/coronavirus-nos-reponses-a-vos-questions-pour-mieux-comprendre-l-epidemie_6030940_4355770.html), Le Monde
-* [Comment fonctionne le virus ?](https://www.cadtm.org/Serie-Covid-19-1-4-Comment-fonctionne-le-virus), CADTM Belgique
-* [Interview de Samuel Alizon (biologiste)](https://www.youtube.com/watch?v=QwFKTE7XfEw), Le Média
-* [Chat avec le docteur Gilles Pialoux](https://www.lemonde.fr/societe/article/2020/03/26/coronavirus-tout-dependra-de-notre-capacite-a-absorber-l-arrivee-de-malades-en-reanimation_6034515_3224.html), Le Monde
-* [Coronavirus : qu'est-ce que la réanimation, qui concerne près de 3000 patients?](https://www.huffingtonpost.fr/entry/coronavirus-quest-ce-que-la-reanimation-qui-concerne-pres-de-3000-patients_fr_5e7cbc89c5b6cb9dc19b9b87), Le Huffington Post
-* [Coronavirus : attention aux fausses informations sur le Covid-19 circulant sur les réseaux sociaux](https://www.pasteur.fr/fr/coronavirus-attention-aux-fausses-informations-covid-19-circulant-reseaux-sociaux), Institut Pasteur
-* [Coronavirus : notre guide pour distinguer les fausses rumeurs des vrais conseils](https://www.lemonde.fr/les-decodeurs/article/2020/03/13/coronavirus-petit-guide-pour-distinguer-les-fausses-rumeurs-des-vrais-conseils_6032938_4355770.html), Le Monde
-* [Sur le COVID-19, le CNRS donne la parole à la science](https://soundcloud.com/cnrs_officiel/sets/covid19-parole-a-la-science), podcast avec différents chercheurs du CNRS
-* [Une première infographie détaillée de l'épidémie de Covid-19 en France](https://www.lefigaro.fr/sciences/une-premiere-photographie-detaillee-de-l-epidemie-de-covid-19-en-france-20200326), Le Figaro
 
 ## Données en temps réel
 
@@ -85,23 +88,24 @@
 * [Policy Responses to COVID-19](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19), FMI
 * [Visualisez la propagation mondiale de l'épidémie de coronavirus](https://www.lemonde.fr/les-decodeurs/article/2020/02/27/en-carte-visualisez-la-propagation-mondiale-de-l-epidemie-de-coronavirus_6031092_4355770.html), Le Monde
 * [Visualisez les pays qui ont "aplati la courbe"](https://www.lemonde.fr/les-decodeurs/article/2020/03/27/coronavirus-visualisez-les-pays-qui-ont-aplati-la-courbe-de-l-infection-et-ceux-qui-n-y-sont-pas-encore-parvenus_6034627_4355770.html), Le Monde
-* [Suivi épidémiologique du COVID-19 dans le monde et à l'IHU Méditerranée Infection](https://www.mediterranee-infection.com/covid-19/), IHU Méditerranée
 * [Covid-19 charts](https://valis.pub/), Octopicorn
+* [Carte et données Covid-19 en France](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees), Gouvernement Français
+* [Google Maps publie des données de 131 pays, dont la France, pour montrer les effets du confinement](https://www.lemonde.fr/pixels/article/2020/04/03/google-maps-publie-des-donnees-de-131-pays-dont-la-france-pour-montrer-les-effets-du-confinement_6035382_4408996.html), Le Monde
 
 ## La politique dans l'épidémie
 
 ### Bilan de la casse de l'hôpital public et de la santé
 
 * [La France en pénurie de masques : aux origines des décisions d'État](https://theconversation.com/la-france-en-penurie-de-masques-aux-origines-des-decisions-detat-134371?utm_source=facebook&utm_medium=bylinefacebookbutton), The conversation
-* [Pénurie de masques face au Covid-19 : la faillite des gouvernements successifs dans la gestion des stocks](https://www.bastamag.net/masques-chirurgicaux-FFP2-stocks-penurie-Covid19-malades-hopitaux-medecins-generalistes), Bastamag
+* [Pénurie de médicament : le gouvernement savait, il n’a rien fait](https://www.frustrationmagazine.fr/penurie-de-medicament-le-gouvernement-savait-il-na-rien-fait/), Frustration Magazine
+* [L’usine bretonne qui alimentait la France en masques : histoire secrète d’un saccage industriel](https://www.franceculture.fr/economie/lusine-bretonne-qui-alimentait-la-france-en-masques-histoire-secrete-dun-saccage-industriel), France Culture
 * [Menacée de fermeture, la seule usine française fabriquant des bouteilles d’oxygène doit être nationalisée](https://revue-progressistes.org/2020/03/25/la-seule-usine-francaise-fabriquant-des-bouteilles-doxygene-doit-etre-nationalisee-clement-chabanne/), Progressistes
 * [Hôpitaux : 4.200 lits d’hospitalisation supprimés en 2018](https://www.francetvinfo.fr/sante/hopital/hopitaux-4-200-lits-dhospitalisation-supprimes-en-2018_3663023.html), France Info
-* [D'où vient la crise des urgences ? Le cauchemar de "l'hôpital du futur"](https://www.monde-diplomatique.fr/2019/10/PIERRU/60490), Le Monde Diplomatique
 * [La casse du siècle, À propos des réformes de l'hôpital public](www.raisonsdagir-editions.org/wp-content/uploads/Casse_siecle_pages.pdf), livre (gratuit pendant l'épidémie) de Pierre-André Juven, Frédéric Pierru, Fanny Vincent
 
 ### Les conséquences climatiques de la pandémie
 
-* [Le covid-19 aura-t-il un effet si positif sur le climat ? ](https://www.neonmag.fr/le-covid-19-aura-il-un-effet-si-positif-sur-le-climat-552975.html), Neon Mag
+* [Pourquoi la pandémie est aussi une mauvaise nouvelle pour le climat](https://www.heidi.news/sciences/pourquoi-la-pandemie-est-aussi-une-mauvaise-nouvelle-pour-le-climat), Heidi News
 * [La vie au ralenti, journal d'un confiné (8)](https://blogs.alternatives-economiques.fr/harribey/2020/03/28/la-vie-au-ralenti-journal-d-un-confine-8), Jean-Marie Harribey (sur la réduction des émissions de CO2)
 
 ### Épidémie et crise économique
@@ -116,47 +120,47 @@
 
 ### Épidémie et injustices sociales
 
-* [Face au coronavirus, les femmes davantage en première ligne que les hommes](https://www.bastamag.net/coronavirus-Covid19-femmes-soignantes-TheLancet-inegalites-epidemies-sante), Bastamag
-* [Les sans-abris en première ligne face au Covid-19](https://www.politis.fr/articles/2020/03/les-sans-abris-en-premiere-ligne-face-au-covid-19-41486/?), Politis
+* [L'épidémie de Covid-19 s'attaque aussi aux droits des femmes !](https://jean-jaures.org/nos-productions/l-epidemie-de-covid-19-s-attaque-aussi-aux-droits-des-femmes), FOndation Jean-Jaurès
 * [Les migrants de Calais abandonnés face au coronavirus](https://reporterre.net/Les-migrants-de-Calais-abandonnes-face-au-coronavirus), Reporterre
 * [Avec le coronavirus et le confinement, le scandale des inégalités sociales éclate](https://www.huffingtonpost.fr/entry/avec-le-coronavirus-et-le-confinement-le-scandale-des-inegalites-sociales-eclate_fr_5e735534c5b63c3b648b2938), Anne Lambert (sociologue)
-* [Professions et salaires : les métiers en première ligne face au COVID-19](https://fr.statista.com/infographie/21234/salaire-moyen-brut-mensuel-selection-de-metiers-indispensables-durant-la-crise-du-coronavirus/?utm_campaign=a4f8497978-All_InfographTicker_daily_FR_14h_KW13_We&utm_medium=email&utm_source=Statista+Global&utm_term=0_afecd219f5-a4f8497978-300808505), Statista
+* [Face à la crise, l'extrême vulnérabilité des femmes de ménage et des nounous](https://www.heidi.news/sante/face-a-la-crise-l-extreme-vulnerabilite-des-femmes-de-menage-et-des-nounous), Heidi News
 * [L'exode sanitaire : nouvelle manifestation de la sécession des classes supérieures](https://jean-jaures.org/nos-productions/l-exode-sanitaire-nouvelle-manifestation-de-la-secession-des-categories-superieures), Fondation Jean-Jaurès
+* [Intérimaires et saisonniers: l’Etat ne protégera pas tout le monde](https://www.mediapart.fr/journal/france/040420/interimaires-et-saisonniers-l-etat-ne-protegera-pas-tout-le-monde), Mediapart
 
 ### Épidémie et politiques gouvernementales
 
-* [Congés, 35 heures, licenciements: la loi d'adaptation au coronavirus va nous faire basculer dans un nouveau monde social](https://www.marianne.net/politique/conges-35-heures-licenciements-la-loi-d-adaptation-au-coronavirus-va-nous-faire-basculer), Marianne
-* [Analyse détaillée et critique de la loi (anti-salariés) d’urgence sanitaire](http://www.gerard-filoche.fr/2020/03/22/analyse-detailele-et-critique-de-la-loi-anti-salaries-durgence-sanitaire-et-droit-du-travail/), Gérard Filoche (inspecteur du travail)
+* [Covid-19 vs Code du travail. La Start up Nation ne lâche rien](https://travailleraufutur.fr/covid-19-vs-code-du-travail-la-start-up-nation-ne-lache-rien), Josépha Dirringer (enseignante-chercheuse)
 * [Virus : surveillance de masse, des USA à la France](https://www.arretsurimages.net/articles/virus-surveillance-de-masse-des-usa-a-la-france), Arrêt sur Images
-* [Saturation d'internet : la saga d'une fausse alerte](https://www.arretsurimages.net/articles/saturation-dinternet-la-saga-dune-fausse-alerte), Arrêt sur Images
-* [Urgences dans le silence !](https://lefildescommuns.fr/2020/03/24/urgences-dans-le-silence/), Elsa Faucillon (députée PCF)
 * [Crise sanitaire : répondre par la solidarité](https://www.youtube.com/watch?v=fgXFQ8zI9XY&feature=youtu.be), intervention d'Elsa Faucillon (députée PCF) à l'Assemblée Nationale
 * [Vos belles paroles ne suffisent pas, monsieur le ministre. C'est de l'enfumage !](https://www.youtube.com/watch?time_continue=1&v=IXV-pg56axs&feature=emb_logo), intervention de Laurence Cohen (sénatrice PCF) au Sénat
 * [Les insoumis votent contre le plan Macron](https://www.youtube.com/watch?v=tYL1c4jGrrQ&feature=emb_logo), intervention de Jean-Luc Mélenchon (député LFI) à l'Assemblée Nationale
 * [Coronavirus, capitalisme, État, santé... : un avant et un après ?](https://solidairesfinancespubliques.org/le-syndicat/nos-engagements/paradis-fiscaux-dette/3117-coronavirus-capitalisme-etat-sante-un-avant-et-un-apres.html), Solidaires Finances Publiques
 * [L'ampleur de la crise sanitaire est liée à une crise institutionnelle](https://www.mediacites.fr/interview/national/2020/03/24/lampleur-de-la-crise-sanitaire-est-liee-a-une-crise-institutionnelle/), Fabien Desage (politiste)
 * [Entre campagne municipale et crise du coronavirus, le chemin de croix d'Agnès Buzyn](https://www.lemonde.fr/politique/article/2020/03/17/entre-campagne-municipale-et-crise-du-coronavirus-le-chemin-de-croix-d-agnes-buzyn_6033395_823448.html), entretien avec Agnès Buzyn (Le Monde)
-* [Covid-19 : le nombre de cas au rassemblement évangélique de Mulhouse largement sous-estimé](https://www.franceculture.fr/societe/covid-19-le-nombre-de-cas-au-rassemblement-evangelique-de-mulhouse-largement-sous-estime), France Culture
+* [Si le gouvernement avait lu la revue science](https://www.arretsurimages.net/articles/si-le-gouvernement-avait-lu-la-revue-science), Arrêt sur Images (chronologie de la communication gouvernementale)
 * [Frontières, masques, tests : le plan "pandémie" a-t-il vraiment été appliqué ?](https://www.lefigaro.fr/sciences/frontieres-masques-tests-le-plan-pandemie-a-t-il-vraiment-ete-applique-20200327), Le Figaro
+* [Résumé de la transformation de l'hôpital dans l'état d'urgence](https://enavantlemanifeste.fr/2020/04/04/alerte-quand-la-finance-soccupe-du-systeme-de-soins/), En avant le manifeste
+* [Sachez-le, la France ne vole pas de masques aux autres pays, elle « réquisitionne »](http://www.regards.fr/politique/article/sachez-le-la-france-ne-vole-pas-de-masques-aux-autres-pays-elle-requisitionne), Regards
+* [Pourquoi la France tarde-t-elle à pratiquer un dépistage massif du coronavirus ?](https://www.bastamag.net/test-massif-covid19-kits-de-depistage-coronavirus-OMS-Allemagne-Coree-du-Sud), Bastamag
 
 ### Le capitalisme en crise sanitaire
 
 * [Crise du Covid-19 : donner la priorité à la reproduction sur la production](https://www.contretemps.eu/coronavirus-capitalisme-reproduction/), Aurore Koechlin
 * [Le travail invisible derrière le confinement. Capitalisme, genre, racialisation et Covid-19](https://www.contretemps.eu/travail-invisible-confinement-capitalisme-genre-racialisation-covid-19/), Françoise Vergès
 * [“Etat-Providence”, ou ce que la bourgeoisie daigne vous accorder (si vous êtes sages)](https://www.frustrationmagazine.fr/etat-providence-ou-ce-que-la-bourgeoisie-daigne-vous-accorder-si-vous-etes-sages/), Frustration
+* [Planification vs. action : la relation États-plateformes à l’heure du Covid-19](https://www.institutmontaigne.org/blog/planification-vs-action-la-relation-etats-plateformes-lheure-du-covid-19), Institut Montaigne
 
 ### Initiatives civiles face à l'épidémie
 
 * [Ingenieros españoles se unen para fabricar respiradores de bajo coste con impresoras 3D](https://www.lavanguardia.com/economia/20200320/474276268606/coronavirus-ingenieros-espanoles-fabrican-respiradoes-bajo-coste-impresoras-3d.html), La vanguardia
-* [500 masques Decathlon transformés en respirateurs grâce à l’impression 3D](https://www.3dnatives.com/masque-decathlon-respirateur-3d-250320203/), 3D Natives
 * [Coronavirus : les résistants du textile au chevet de la crise sanitaire](https://www.pourleco.com/en-vrai/la-fabrique-de-leco/ces-resistants-du-textile-qui-produisent-des-masques-en-urgence), Pour l'éco
-* [Les colleuses d’affiches antiféminicides s’adaptent au confinement](https://www.lemonde.fr/societe/article/2020/03/27/les-colleuses-d-affiches-anti-feminicides-s-adaptent-au-confinement_6034696_3224.html), Le Monde
 * [Exemples de solidarités en cours](https://www.cadtm.org/Serie-Covid-19-2-4-Exemples-de-solidarites-en-cours), CADTM Belgique
-* [Covid-19 : les bons petits plats des chefs pour le personnel hospitalier](https://www.franceculture.fr/gastronomie/covid-19-les-bons-petits-plats-des-chefs-pour-le-personnel-hospitalier), France Culture
-* [Tests Covid-19: les labos de santé animale réclament d’être réquisitionnés ](https://www.mediapart.fr/journal/france/290320/tests-covid-19-les-labos-de-sante-animale-reclament-d-etre-requisitionnes), Mediapart
-* [Agir confiné ? Des propositions d’actions pour afficher son soutien](https://lafranceinsoumise.fr/2020/03/25/agir-confine-propositions-actions-afficher-soutien/), LFI
+* [Les colleuses d’affiches antiféminicides s’adaptent au confinement](https://www.lemonde.fr/societe/article/2020/03/27/les-colleuses-d-affiches-anti-feminicides-s-adaptent-au-confinement_6034696_3224.html), Le Monde
+* [Militer au temps du coronavirus](https://melenchon.fr/2020/04/03/militer-au-temps-du-coronavirus/), Jean-Luc Mélenchon
+* [Confinement et syndicats : poursuivre et réinventer la lutte](http://www.regards.fr/idees-culture/article/confinement-et-syndicats-poursuivre-et-reinventer-la-lutte), Regards
 * [Que valent vraiment les masques en tissu fabriqués à la maison contre le coronavirus? ](http://www.slate.fr/story/188889/masques-tissu-fait-maison-pandemie-coronavirus-efficacite), Slate
 * [Lutte contre le coronavirus : le projet Folding@Home se transforme en monstre de calcul](https://www.01net.com/actualites/lutte-contre-le-coronavirus-le-projet-foldinghome-se-transforme-en-monstre-de-calcul-1880500.html), 01Net
+* [PSA renonce à rouvrir l’usine de Valenciennes sous la pression des salariés](https://npa2009.org/actualite/entreprises/psa-renonce-rouvrir-lusine-de-valenciennes-sous-la-pression-des-salaries), NPA
 
 ### Que faire ?
 
@@ -164,28 +168,26 @@
 * [Coronavirus : the hammer and the dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), Thomas Pueyo
 * [Dépister et fabriquer des masques, sinon le confinement n'aura servi à rien](https://reporterre.net/Depister-et-fabriquer-des-masques-sinon-le-confinement-n-aura-servi-a-rien), Gaël Giraud (économiste)
 * [Coronavirus : les 11 mesures d'urgence proposées par la France Insoumise](https://lafranceinsoumise.fr/2020/03/20/coronavirus-11-mesures-durgence/)
+* [Covid-19 : les propositions du PCF](https://www.pcf.fr/contribution_du_pcf)
 * [Protect the people](https://www.protectthepeople.co.uk/), gauche britannique
 * [De l'urgence sanitaire à l'urgence civilisationnelle](http://www.pierrelaurent.org/coronavirus-de-lurgence-sanitaire-a-lurgence-civilisationnelle/), Pierre Laurent (sénateur PCF)
 * [L'épreuve politique de la pandémie](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/190320/l-epreuve-politique-de-la-pandemie), Pierre Dardot (philosophe) et Christian Laval (sociologue)
-* [Covid-19 : un virus très politique](https://entreleslignesentrelesmots.blog/2020/03/11/covid-19-un-virus-tres-politique/), Patrick Silberstein
 * [Propositions de mesures à prendre](https://www.cadtm.org/Serie-Covid-19-3-4-Propositions-de-mesures-a-prendre), CADTM Belgique
 * [Le travail ou la vie : contester la subordination pour stopper l'épidémie](https://www.frustrationmagazine.fr/le-travail-ou-la-vie-contester-la-subordination-pour-stopper-lepidemie/), Thomas Coutrot (économiste)
 * [The pandemic, the working class and the left](https://www.european-left.org/the-pandemic-the-working-class-and-the-left/), Andrew Burgin (Left Unity, UK)
-* [Plus jamais ça !](https://www.francetvinfo.fr/sante/maladie/coronavirus/tribune-plus-jamais-ca-18responsables-d-organisations-syndicales-associatives-et-environnementales-appellent-a-preparer-le-jour-dapres_3886345.html), 18 responsables d'organisations syndicales, associatives et environnementales appellent à préparer "le jour d’après"
 * [Crise du Coronavirus : sortir du déni. Et tout reconstruire.](https://www.amisdelaterre.org/crise-du-coronavirus-sortir-du-deni-et-tout-reconstruire/), Les Amis de la Terre
-* [Coronavirus: pourquoi il ne faut pas espérer un retour à la normale dans les prochains mois](https://www.heidi.news/articles/covid-19-a-quoi-ressemblera-le-monde-dans-les-prochains-mois), Heidi News
+* [Coronavirus : quels choix de politiques publiques ?](http://tnova.fr/notes/coronavirus-quels-choix-de-politique-publique), Terra Nova
+* [Quelle réponse numérique à la crise du Covid-19 ?](http://tnova.fr/notes/quelle-reponse-numerique-a-la-crise-du-covid-19), Terra Nova
+* [Le revenu de base, une solution pragmatique](https://lvsl.fr/le-revenu-de-base-une-solution-pragmatique/), LVSL
+* [Pour le déconfinement, des médecins proposent d'utiliser l'intelligence artificielle](https://www.huffingtonpost.fr/entry/pour-le-deconfinement-des-medecins-veulent-utiliser-lintelligence-artificielle_fr_5e894581c5b6cbaf282a84ff), Le Huffington Post
 
 ## Les Relations Internationales dans l'épidémie
 
 ### La pandémie en Europe
 
-* [Covid-19 : état des lieux de la réponse européenne](https://jean-jaures.org/nos-productions/covid-19-etat-des-lieux-de-la-reponse-europeenne), Fondation Jean Jaurès
-* [L'Allemagne, l'Europe et le monde face au coronavirus](https://jean-jaures.org/nos-productions/l-allemagne-l-europe-et-le-monde-face-au-coronavirus), Fondation Jean Jaurès
-* [Étude sur l'Union face à la pandémie de Covid-19](https://www.robert-schuman.eu/fr/doc/actualites/covid19-fr.pdf), Fondation Robert Schuman
+* [Covid-19 : les réponses européennes, un tableau complet](https://www.robert-schuman.eu/fr/doc/actualites/covid19-26032020-fr.pdf), Fondation Robert-Schuman
 * [Gauche européenne : réactions au coronavirus](https://internationalpcf.nationbuilder.com/r?u=x7qo17qR1Kb0lLg85yQYfAbXTC6Z7wxyptuSZemzKnGIQ6E39MrphA39O8ip-bbkqXlL_zmkk_L690t5ccUYg-7zdgwCu9DdhDpVXC6MB-JfZ8rFCydlT-pgYkIv7ZYBBffF4F5thK5TDDvgDaYmb5fITuUCO5nGfw1G9OAHUGAxj08FvI4_UoI7RlBoXnkM_uzHCXIEHxhrev89-5IBHw&e=cc2582779986510b7343517bf4da1f48&utm_source=internationalpcf&utm_medium=email&utm_campaign=informations_international59&n=4), secteur International du PCF
-* [COVID-19: la Commission crée la toute première réserve rescEU de matériel médical](https://ec.europa.eu/commission/presscorner/detail/fr/ip_20_476), Commission Européenne
-* [Déclaration des ministres des finances de l'UE sur le pacte de stabilité et de croissance à la lumière de la crise du COVID-19](https://www.consilium.europa.eu/fr/press/press-releases/2020/03/23/statement-of-eu-ministers-of-finance-on-the-stability-and-growth-pact-in-light-of-the-covid-19-crisis/), Conseil Européen
-* [En Irlande, les sous-traitants des GAFA ont été mis à l’épreuve](https://www.mediapart.fr/journal/international/280320/en-irlande-les-sous-traitants-des-gafa-ont-ete-mis-l-epreuve), Mediapart
+* [Comment Viktor Orban fait du Covid-19 une arme politique](https://www.institutmontaigne.org/blog/une-couronne-pour-le-roi-comment-viktor-orban-fait-du-covid-19-une-arme-politique), Institut Montaigne
 
 ### Espagne et Portugal
 
@@ -226,9 +228,14 @@
 * [Coronavirus : crainte d'un «désastre» à Gaza, cinq morts en Israël et un en Cisjordanie](https://francais.rt.com/international/73198-coronavirus-crainte-d-desastre-gaza-cinq-mort-en-israel-un-cisjordanie), RT France
 * [L’épidémie de coronavirus, si elle se propage en Syrie, risque d’y faire des ravages](http://www.famillesunies.fr/2020/03/23/communique-du-collectif-des-familles-unies-lepidemie-de-coronavirus-si-elle-se-propage-en-syrie-risque-dy-faire-des-ravages-face-a-cette-pandemie-les-enfants-francais-prison/), communiqué du Collectif des Familles Unies
 
+### La pandémie en Afrique
+
+* [Coronavirus et Afrique : quels enjeux ? ](https://www.institutmontaigne.org/blog/coronavirus-et-afrique-quels-enjeux), Institut Montaigne
+
 ### Général
 
 * [Indispensable solidarité internationale](https://www.pcf.fr/indispensable_solidarite_internationale), secteur International du PCF
 * [Un monde instable et imprévisible à l'heure du coronavirus](https://lefildescommuns.fr/2020/03/17/un-monde-instable-et-imprevisible-a-lheure-du-coronavirus/), Christophe Aguiton (sociologue)
 * [« Profitons de la pandémie pour faire la paix avec la Terre »](https://www.lemonde.fr/idees/article/2020/03/17/mireille-delmas-marty-profitons-de-la-pandemie-pour-faire-la-paix-avec-la-terre_6033344_3232.html), Mireille Delmas-Marty (juriste)
 * [Les sept défis capitaux pour vaincre le coronavirus](http://www.slate.fr/story/188958/tribune-sept-defis-capitaux-lutte-coronavirus-epidemie-covid-19-democratie-etat-gouvernance), Jean-Dominique Giuliani (président Fondation Robert Schuman)
+* [Course au vaccin, l’urgence d’une coopération mondiale](https://www.humanite.fr/course-au-vaccin-lurgence-dune-cooperation-mondiale-687122), L'Humanité
